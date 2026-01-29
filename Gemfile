@@ -64,4 +64,4 @@ end
 # Multi-tenancy
 gem "acts_as_tenant", "~> 1.0"
 
-gem "devise", "~> 4.9"
+gem "devise", "~> 5.0"
